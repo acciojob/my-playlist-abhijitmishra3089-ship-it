@@ -1,1 +1,51 @@
-/*  your css code here. If applicable */
+.box{
+	background-color:rgb(204,204,204)
+}
+#heading{
+	text-align:center;
+}
+.gaana {
+	width:auto;
+	height:150px;
+	justify-content:center;
+	align-items:center;
+	background-color:white;
+	margin:15px;
+	border-radius:5px;
+	border:2px solid black
+}
+ul{
+	list-style:none;
+	text-decoration:none;
+	padding:10px
+}
+#play{
+	text-align:center;
+	margin:-15px
+}
+.player_one{
+	height:500px;
+	width:450px;
+	justify-content:center;
+	/* display:flex; */
+	align-items:center;
+	background-color:white;
+	margin-top:25px;
+	margin-left:55px;
+	margin-right:15px;
+	border-radius:5px;
+	border:2px solid black;
+	
+}
+.player_two{
+	width:400px;
+		height:290px;
+	margin:25px
+}
+#music{
+	text-align:center;
+	margin:5px
+}
+p{
+	margin:10px;
+}
