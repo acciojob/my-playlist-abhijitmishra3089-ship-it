@@ -40,7 +40,8 @@ ul{
 .player_two{
 	width:400px;
 		height:290px;
-	margin:25px
+	margin:25px;
+	background-color:white
 }
 #music{
 	text-align:center;
