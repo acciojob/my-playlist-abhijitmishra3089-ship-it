@@ -1,4 +1,4 @@
-.box{
+body{
 	background-color:rgb(204,204,204)
 }
 #heading{
@@ -31,7 +31,7 @@ ul{
 	align-items:center;
 	background-color:white;
 	margin-top:25px;
-	margin-left:55px;
+	margin-left:35px;
 	margin-right:15px;
 	border-radius:5px;
 	border:2px solid black;
